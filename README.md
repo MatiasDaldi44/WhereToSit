@@ -1,4 +1,5 @@
 Problem
+
 Write two related programs where, given the list of people who are going to the movies together,
 the pairs of people who can't sit next to each other, and the list of people who are buying popcorn,
 determines the two following things:
@@ -8,11 +9,13 @@ that satisfy all the restrictions.
 that satisfy all the restrictions.
 
 Output (for Program 1)
+
 On a single line, simply output the total number of valid orderings of the people attending the
 movie sitting together in a single row, from left to right. It is guaranteed that the input data will be
 such that this value will be a positive integer.
 
 Output (for Program 2)
+
 Output, with one name per line, the first lexicographical valid ordering of the people attending the
 moving sitting together in a single row, from left to right. In lexicographical ordering, all lists
 starting with name1 will come before all lists starting with name2 if name1 comes before name2
